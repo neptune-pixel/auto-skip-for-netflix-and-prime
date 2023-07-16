@@ -99,6 +99,11 @@ export const i18nMap = {
     skip_intro: "Jeneriği Atla",
     skip_recap: "Özeti Atla",
   },
+    tr_TR_Netflix: {
+    next_epi: "Sonraki Bölüm",
+    skip_intro: "İntroyu Atla",
+    skip_recap: "Özeti Atla",
+  },
   ru_RU: {
     skip_intro: "Пропустить заставку",
     next_epi: "Следующее",
